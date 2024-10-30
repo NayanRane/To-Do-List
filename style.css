@@ -109,3 +109,10 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+
+@media only screen and (max-width:600px){
+    .todo-app{
+       padding-left: 9px;
+    }
+}
